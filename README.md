@@ -3,14 +3,7 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
 
-<head>
-    <meta charset="utf-8">
-   
-    <title>[简历]mjh-前端开发工程师/杭州</title>
-    </script>
-</head>
 
-<body>
 
    <div>
    <p style="font-family:#000">技术：<h3>WebMagic+NLP+HTML+MYsql+JS+词云</h3></p>
@@ -31,6 +24,4 @@
   
    
    </div>
-</body>
 
-</html>
